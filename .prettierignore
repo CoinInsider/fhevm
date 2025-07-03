@@ -19,4 +19,4 @@ types
 .pnp.*
 coverage.json
 package-lock.json
-yarn.lock
+yarn.loc,,
